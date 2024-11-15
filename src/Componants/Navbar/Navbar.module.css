@@ -1,0 +1,11 @@
+.navColor {
+    background-color: var(--main-color);
+}
+
+.itemColor {
+    color: var(--container-color) !important;
+}
+
+.activeLink {
+    color: var(--rating-color)  !important;
+  }
